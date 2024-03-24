@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - While I have gained a lot of knowledge and experience in machine learning and data science, I am still in the process of learning more about computer vision. 
 - I am always eager to learn new things and improve my skills, and I am excited about the many opportunities in these fields.</h3>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Deepshikhar&theme=neon)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=dsg73&theme=neon)](https://git.io/streak-stats)
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,19 +27,19 @@ Here are some ideas to get you started:
 
 
 
-<p><img align="center" src="https://github-readme-stats-deepshikhar.vercel.app/api/top-langs?username=deepshikhar&show_icons=true&locale=en&layout=compact" alt="deepshikhar" /></p>
+<p><img align="center" src="https://github-readme-stats-dsg73.vercel.app/api/top-langs?username=dsg73&show_icons=true&locale=en&layout=compact" alt="dsg73" /></p>
 <!--
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepshikhar&" alt="deepshikhar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dsg73&" alt="dsg73" /></p>
 -->
 <h3 align="left">GitHub Stats:</h3>
 <p>
    <a href="https://img.shields.io/github/followers/deepshikhar?label=Follow&style=social">
-      <img alt="Coverage" src="https://img.shields.io/github/followers/deepshikhar?label=Follow&style=social" height="25">
+      <img alt="Coverage" src="https://img.shields.io/github/followers/dsg73?label=Follow&style=social" height="25">
    </a>
-   <img alt="Visitors" src="https://komarev.com/ghpvc/?username=deepshikhar&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12">
-   <img alt="Last Update" src="https://img.shields.io/github/last-commit/deepshikhar/deepshikhar?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
+   <img alt="Visitors" src="https://komarev.com/ghpvc/?username=dsg73&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12">
+   <img alt="Last Update" src="https://img.shields.io/github/last-commit/dsg73/dsg73?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 </p>
 
 <h3 align="left">Connect with me:</h3>
